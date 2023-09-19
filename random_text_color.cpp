@@ -70,7 +70,7 @@ int main()
 	}
 
 	// display the color number and appropriate message
-	std::cout << "random_color = " << random_color << endl;
+	std::cout << "random_color = " << random_color << "\n";
 
 	if (color_supported)
 		std::cout << "random text color\n";
