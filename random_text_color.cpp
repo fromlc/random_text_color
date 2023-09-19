@@ -12,7 +12,7 @@
 #include <cstdlib>		// for srand(), rand()
 #include <ctime>		// for time()
 
-using namespace std;
+//using namespace std;
 
 //------------------------------------------------------------------------------
 // random_text_color.cpp
